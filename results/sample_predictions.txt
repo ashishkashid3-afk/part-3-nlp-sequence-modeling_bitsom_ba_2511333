@@ -1,0 +1,10 @@
+Actual:1 | Predicted:neutral
+Actual:2 | Predicted:positive
+Actual:1 | Predicted:neutral
+Actual:0 | Predicted:negative
+Actual:0 | Predicted:negative
+Actual:0 | Predicted:negative
+Actual:0 | Predicted:negative
+Actual:1 | Predicted:neutral
+Actual:0 | Predicted:negative
+Actual:0 | Predicted:negative

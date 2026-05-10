@@ -1,0 +1,10 @@
+Following python libraries are required to run the code in this repository:
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+nltk
+jupyter

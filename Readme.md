@@ -10,3 +10,4 @@ This improves performance in task such as  Machine Translation, Text Summarizati
 Attenstion helps to solve the information bottelneck problem found in traditional encoder-decoder architecture.
 ## Why transformers are important in modern NLP and Generative AI
 Transformers are modern DL architecture that rely entirely on attention mechanism instead of recurrent processing. key adavntaf=ge of transformers include- better parallel processing, faster training, Improved understanding, high stability.Transforemers are foundation of modern NLP and Gen AI model such as GPT,Gemini, Claude etc. They are widely used in application like Text generation and document reading & undersatnding. 
+# Dataset Source Link-'C:\\Users\\DELL\\Desktop\\bitsom_ba_2511333_Kashid_Ashish_Assignment5\\BITSoM BA - Module 5 - Dataset\\ai_project_synthetic_datasets\\part_3_nlp_sequence_modeling'
